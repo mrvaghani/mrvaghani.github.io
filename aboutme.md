@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Some things about me that I think you should know
+subtitle: Some things about me
 ---
 
 ### Objective:
