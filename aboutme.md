@@ -31,7 +31,8 @@ Here are some of the things I learned from my projects:
   - This was my first time hands on experience with FreeBSD. I started by learning the package manager and by understanding how the disks are mounted
   - Properly designing my system meant I had to understand zfs, [storage pools](https://www.ixsystems.com/documentation/freenas/11.3-U3.2/storage.html#pools) and many new things regarding data redundancy
   - Setting up network shared services required me to learn [FreeBSD jails](https://www.freebsd.org/doc/handbook/jails.html)
-  - Sharing storage over network meant learning TCP/IP, DHCP, NFSv4, iSCSI. This made it easy for me to backup all of my devices to FreeNAS server over the network, even OSX Time Machine!&nbsp   
+  - Sharing storage over network meant learning TCP/IP, DHCP, NFSv4, iSCSI. This made it easy for me to backup all of my devices to FreeNAS server over the network, even OSX Time Machine!
+<br> 
 
 
 - #### Hypervisor - VMWare ESXi (Physical)
@@ -39,7 +40,8 @@ Here are some of the things I learned from my projects:
   - After having too many VMs created on my desktop using VMWare Workstation, it was time to migrate to a dedicated ESX server
   - I learned how to compile a driver for my High IOPS PCI-E SSD for ESXi because it was only available for Redhat
   - Since I had no local storage for VMs, it was time to learn NFS and iSCSI to compare performance. Block storage was better if I were planning on using VMotion and other features offered by ESX. And since I only had 1 ESX, I choose to go with NFS data stores for VMs
-  - After upgrading from version 5.5, vSphere Web Client became a necessasity and so I added it&nbsp  
+  - After upgrading from version 5.5, vSphere Web Client became a necessasity and so I added it
+<br>
     
 
 - #### Networking - Managed 10Gb Fiber Switch (Physical)
