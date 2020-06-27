@@ -51,50 +51,50 @@ Here are some of the things I learned from my projects:
   - Setup all IPMI on a separate management VLANs
   - Setup Link Aggregation for my Synology NAS to support dual ethernet ports
   - All the servers were connected via this switch over 10Gb Fiber
-  
+<br/><br/>  
 
 - #### Firewall - Pfsense (Physical)
   - After getting tired of the limitations of the router provided by ISP, I decided to change it for a physical Pfsense box
   - Pfsense provided better security while having the ability to add more packages for extra functionality
   - Using Squid proxy for caching Windows Updates was very helpful when I had to update entire homelab VMs
   - I also tried to block Ads and other Malware by using pfBlockerNG but ended up using my Raspberry-Pie and [Pi-Hole](https://pi-hole.net/) by creating a DNS sinkhole
-  
+<br/><br/>
 
 - #### Kubernetes sandbox - Ubuntu 18.04 LTS (virtual)
 
   - In order to have a place to host and manage docker containers, I decided to have 3 Docker host and managed it using Docker Compose
   - After having too many containers to manually manage, I decided to deploy using Ansible
   - Writing Ansible playbooks was very time consuming so I decided to setup Kubernetes cluster and starting using it to manage my containers
-  
+<br/><br/>
 
 - #### Metasploit Unleashed Lab - (virtual)
   - In order to practice Metasploit, I setup a vulnerable Linux VM provided by Offensive Security called Metasploitable
-  
+<br/><br/>
 
 - #### Kali Linux - (virtual)
   - Setup a VM with Kali to practice for online courses as well as participating in CTF events. Last CTF I attended was [All-Army CyberStakes](https://cyberstakes.acictf.com/)
-  
+<br/><br/>
 
 - #### Windows XP - (virtual)
   - In order to practice Buffer Overflow in some known vulnerable applications that were only available for XP
-  
+<br/><br/>
 
 - #### Windows 10 - (virtual)
   - Reverse Engineering Malware using ghidra. Unfortunately my university did not have student discounts available for IDA Pro
-  
+<br/><br/>
 
 - #### Ubuntu 18.04 LTS - (virtual)
   - Test Sandbox used for testing out new packages and scripts without breaking other machines
-  
+<br/><br/>
 
 - #### Windows Server 2016 - (virtual)
   - Practicing DHCP, DNS, AD and IIS roles
-  
+<br/><br/>
 
 - #### Game Servers - (virtual)
   - Counter Strike: Source 128-tick server
   - Minecraft 1.15 Server
-
+<br/><br/>
 # Contact
 
 You can get in touch by using one of the methods listed at the bottom of this page.
