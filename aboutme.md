@@ -95,6 +95,8 @@ Here are some of the things I learned from my projects:
   - Counter Strike: Source 128-tick server
   - Minecraft 1.15 Server
 <br/><br/>
+
+
 # Contact
 
 You can get in touch by using one of the methods listed at the bottom of this page.
