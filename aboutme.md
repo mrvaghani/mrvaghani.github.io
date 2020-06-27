@@ -47,7 +47,7 @@ Here are some of the things I learned from my projects:
 - #### Networking - Managed 10Gb Fiber Switch (Physical)
   - This was my first hands on experience with fiber and SFP+ cables
   - I also resized my DHCP pool in order to free up some IPs to be assigned statically
-  - Added most used IPs in my HOSTS file for convinience
+  - Added most used IPs in my HOSTS file for convenience
   - Setup all IPMI on a separate management VLANs
   - Setup Link Aggregation for my Synology NAS to support dual ethernet ports
   - All the servers were connected via this switch over 10Gb Fiber
